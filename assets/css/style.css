@@ -5,5 +5,9 @@
 }
 
 body{
-    
+    background: chartreuse;
+}
+
+button{
+    background: red;
 }
